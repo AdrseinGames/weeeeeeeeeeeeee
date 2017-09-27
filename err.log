@@ -1,0 +1,495 @@
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
+C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23
+    log(`Loading Command: ${props.help.name}. 👌`);
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at files.forEach.f (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:23:39)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (C:\Users\Adrians\Desktop\Tutorial-Bot-Episode-10-Part-1\app.js:21:9)
+    at FSReqWrap.oncomplete (fs.js:136:15)
